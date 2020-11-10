@@ -4,3 +4,6 @@
 
 # Machine Learning Scientist Completion ScreenShot
 ![Lab assignment](https://github.com/aihubprojects/AWS-AI-ML-Week-9/blob/main/Diwas%20Pandey.png)
+
+
+## Project Codes will be uploaded soon.....
